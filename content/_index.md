@@ -52,7 +52,7 @@ sections:
     design:
       view: citation
   - block: markdown
-        content:
+    content:
       title: 'Recent News'
       subtitle: ''
       text: |-
