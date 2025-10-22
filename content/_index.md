@@ -26,7 +26,7 @@ sections:
       title: 'My Research'
       subtitle: ''
       text: |-
-        asdfasdfasdfasdf
+        asdfasdfasdfasdf [TEXT](https://www.ias.edu/scholars/feliks-raczka)
     design:
       columns: '1'
   - block: collection
