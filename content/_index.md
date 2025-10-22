@@ -26,7 +26,7 @@ sections:
       title: 'My Research'
       subtitle: ''
       text: |-
-        asdfasdfasdfasdf [TEXT](https://www.ias.edu/scholars/feliks-raczka)
+        This page is under construction. In particular, this is a stock photo of someone else. You can find informations about my research [HERE](https://www.ias.edu/scholars/feliks-raczka)
     design:
       columns: '1'
   - block: collection
