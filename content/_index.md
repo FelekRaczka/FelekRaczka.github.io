@@ -44,7 +44,7 @@ sections:
       title: 'Recent News'
       subtitle: ''
       text: |-
-        text text text
+        I won the [International Stefan Banach prize](https://ibp.ptm.org.pl/en/laureaci/) for the best Ph.D. dissertation.
     design:
       columns: '1'
 ---
