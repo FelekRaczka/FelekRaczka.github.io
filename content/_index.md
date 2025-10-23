@@ -26,7 +26,7 @@ sections:
       title: 'My Research'
       subtitle: ''
       text: |-
-        I am interested in algebraic and nonarchimedean geometry, in particular I study D-modules in these settings. In my [Ph.D. thesis](https://sites.google.com/impan.pl/feliks-raczka/home/thesis?authuser=0) I studied de Rham cohomology of holonomic D-modules on rigid-analytic varieites. Recently, I also think a lot about D-affinity of flag varieties in positive characteristc and related problems from geometric representation theory.  
+        I am interested in D-modules in algebraic and nonarchimedean geometry. In my [Ph.D. thesis](https://sites.google.com/impan.pl/feliks-raczka/home/thesis?authuser=0) I studied de Rham cohomology of holonomic D-modules on rigid-analytic varieites. Recently, I also think a lot about D-affinity of flag varieties in positive characteristc and related problems from geometric representation theory.  
     design:
       columns: '1'
   - block: collection
