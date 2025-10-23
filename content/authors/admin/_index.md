@@ -17,5 +17,7 @@ highlight_name: true
 
 ---
 
+WARNING!! This page is still under construction. In particular, the photo on the left is a stock photo of some random guy.
+
 Welcome to my website! I am a Member (postdoc) at the [Institute for Advanced Study](https://www.ias.edu/scholars/feliks-raczka) where my mentor is [Jacob Lurie](https://www.math.ias.edu/~lurie/). Before, I was a Ph.D. student in the [Institute of Mathematics of the Polish Academy of Sciences](https://www.impan.pl/en) under the supervison of [Piotr Achinger](https://achinger.impan.pl/) and [Adrian Langer](https://www.mimuw.edu.pl/~alan/). If you want to contact me, my email address is fraczka@impan.pl.
 
