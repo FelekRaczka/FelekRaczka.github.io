@@ -60,5 +60,5 @@ features:
     enable: false
 
 favicon:
-  disabled: true
+  icon: "favicon.ico"
 
