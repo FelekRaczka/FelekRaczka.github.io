@@ -3,6 +3,8 @@ title: "My Simple Page"
 date: 2025-11-14T12:00:00Z
 type: page
 summary: "A brief summary of this page."
+design: 
+    show_social: false
 ---
 ## Introduction
 
