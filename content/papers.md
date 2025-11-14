@@ -10,4 +10,4 @@ design:
 
 This is the content of my simple page.
 
-You can use **Markdown**, embed images, use shortcodes, math, etc. :contentReference[oaicite:3]{index=3}
+You can use **Markdown**, embed images, use shortcodes, math, etc.
