@@ -25,3 +25,6 @@ main:
   - name: Courses
     url: courses/
     weight: 40
+  - name: "My Simple Page"
+    url: /papers/
+    weight: 50
