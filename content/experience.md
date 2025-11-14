@@ -33,12 +33,6 @@ design:
 #       title: Languages
 #       username: admin
 
-block: markdown
-    content:
-      title: 'Test'
-      subtitle: ''
-      text: |-
-        test experience
-    design:
-      columns: '1'
 ---
+
+Test test
