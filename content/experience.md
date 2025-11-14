@@ -34,7 +34,6 @@ design:
 #       username: admin
 
 block: markdown
-    id: experience
     content:
       title: 'Test'
       subtitle: ''
