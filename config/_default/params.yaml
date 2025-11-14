@@ -60,4 +60,5 @@ features:
     enable: false
 
 favicon:
-  icon: "favicon.png"
+  disabled: true
+
