@@ -1,12 +1,10 @@
 ---
-title: 'Experience'
+title: 'Publications'
 date: 2025-11-14
 type: landing
 
 design:
   spacing: '5rem'
-  css_class: max-w-none
-  columns: '1'
 
 # Note: `username` refers to the user's folder name in `content/authors/`
 
@@ -14,17 +12,13 @@ design:
 sections:
   - block: markdown
     content:
-      title: 'My Research'
+      title: 'Publications'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-
-        Please reach out to collaborate 😃
+        1. Feliks Rączka, 2024, Modules of minimal dimension over completed Weyl algebras, [link](https://arxiv.org/abs/2402.04683)
     design:
       columns: '1'
-      width: 80%
+      width: 100%
 
 
 ---

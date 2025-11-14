@@ -9,10 +9,7 @@ main:
     weight: 10
   - name: "News"
     url: /#news
-    weight: 11
+    weight: 15
   - name: "Papers"
     url: /papers
     weight: 20
-  - name: Experience
-    url: experience/
-    weight: 30
