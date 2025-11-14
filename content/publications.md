@@ -5,7 +5,7 @@ type: landing
 
 design:
   spacing: '5rem'
-  css_class: hbx-width-full
+  # css_class: hbx-width-full
 
 # Note: `username` refers to the user's folder name in `content/authors/`
 
