@@ -1,6 +1,6 @@
 ---
 title: 'Experience'
-date: 2023-10-24
+date: 2025-11-14
 type: landing
 
 design:
@@ -22,8 +22,8 @@ sections:
         I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
 
         Please reach out to collaborate 😃
-    # design:
-    #   columns: '1'
+    design:
+      columns: '1'
 
 
 
