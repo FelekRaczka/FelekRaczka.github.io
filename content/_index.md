@@ -13,7 +13,8 @@ sections:
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-      text: 'Summary'
+      title: 'About me'
+      text: ''
       button: false
         # text: Download CV
         # url: uploads/resume.pdf
@@ -31,7 +32,7 @@ sections:
         shape: square # Options: circle (default), square, rounded
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: 'My Research'
       subtitle: ''
       text: |-
         Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
