@@ -13,7 +13,7 @@ sections:
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-      text: ''
+      text: 'Summary'
       button: false
         # text: Download CV
         # url: uploads/resume.pdf
