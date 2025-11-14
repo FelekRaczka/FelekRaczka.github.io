@@ -43,6 +43,15 @@ sections:
         I won the [International Stefan Banach prize](https://ibp.ptm.org.pl/en/laureaci/) for the best Ph.D. dissertation.
     design:
       columns: '1'
+  - block: markdown
+    id: research
+    content:
+      title: 'My research'
+      subtitle: ''
+      text: |-
+        I am interested in D-modules in algebraic and nonarchimedean geometry. In my [Ph.D. thesis](https://sites.google.com/impan.pl/feliks-raczka/home/thesis?authuser=0) I studied de Rham cohomology of holonomic D-modules on rigid-analytic varieites. Recently, I also think a lot about D-affinity of flag varieties in positive characteristc and related problems from geometric representation theory.
+    design:
+      columns: '1'
       
   # - block: collection
   #   id: papers
