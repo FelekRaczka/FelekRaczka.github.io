@@ -35,6 +35,7 @@ sections:
       #   education: ''
       #   interests: ''
   - block: markdown
+    id: news
     content:
       title: 'Recent news'
       subtitle: ''
