@@ -10,6 +10,6 @@ main:
   - name: "News"
     url: /#news
     weight: 15
-  - name: "Papers"
-    url: /papers
+  - name: "Publications"
+    url: /publications
     weight: 20

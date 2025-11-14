@@ -5,6 +5,7 @@ type: landing
 
 design:
   spacing: '5rem'
+  css_class: hbx-width-full
 
 # Note: `username` refers to the user's folder name in `content/authors/`
 
@@ -18,8 +19,6 @@ sections:
         1. Feliks Rączka, 2024, Modules of minimal dimension over completed Weyl algebras, [link](https://arxiv.org/abs/2402.04683)
     design:
       columns: '1'
-      width: 100%
-
 
 ---
 
