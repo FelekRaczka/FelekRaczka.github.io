@@ -20,7 +20,7 @@ sections:
         # url: uploads/resume.pdf
       # Show a call-to-action button under your biography? (optional)
       headings:
-        about: ''
+        about: 'About me'
         education: ''
         interests: ''
     design:
@@ -42,6 +42,10 @@ sections:
         Please reach out to collaborate 😃
     design:
       columns: '1'
+      icons:
+        about: ''
+        education: ''
+        interests: ''
   # - block: collection
   #   id: papers
   #   content:
