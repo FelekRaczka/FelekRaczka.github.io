@@ -30,6 +30,7 @@ sections:
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: square # Options: circle (default), square, rounded
+        text: 'text'
       # icons:
       #   about: ''
       #   education: ''
